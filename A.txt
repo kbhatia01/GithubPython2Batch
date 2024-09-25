@@ -3,3 +3,6 @@ Hello
 hey
 
 3 commit
+
+
+GIT PULL: Git fetch && git merge
