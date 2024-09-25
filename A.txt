@@ -6,3 +6,6 @@ hey
 
 
 GIT PULL: Git fetch && git merge
+
+
+git pull --rebase : Git fetch && rebase...
